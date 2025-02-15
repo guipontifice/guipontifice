@@ -1,5 +1,7 @@
 ## Oi! Me chamo Guilherme Pontifice 🤝
 #### Sou um Desenvolvedor Front-end que ama tudo relacionado à tecnologia. Sempre buscando aprender e aprimorar meu conjunto de habilidades, seguindo as melhores práticas e padrões de engenharia de software. 
+
+#### Tenho uma conta profissional aqui no GitHub. Portanto, meu histórico de commits está todo lá.
 ![giphy](https://github.com/guipontifice/guipontifice/assets/128933748/2b1428ba-1ee2-4452-9a21-70d2ae83b816)<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepontifice/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermepontifice.gp@gmail.com)
 
