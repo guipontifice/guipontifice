@@ -1,7 +1,5 @@
 ## Oi! Me chamo Guilherme Pontifice Pauferro🤝
 
-#### Tenho uma conta profissional aqui no GitHub. Portanto, meu histórico de commits está todo lá.
-
 #### 🎯 Desenvolvedor Front-End com experiência em projetos web responsivos, performáticos e acessíveis.
 
 #### 🚀 Apaixonado por tecnologia e evolução constante, aplico boas práticas de desenvolvimento, versionamento com Git, testes automatizados e foco total na experiência do usuário.
