@@ -12,11 +12,11 @@
 
 ![Pontifice's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipontifice&show_icons=true&theme=onedark)
 
- <div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,graphql,tailwind,sass,vue,docker,figma,jest,linux,postman,vercel,vite,bootstrap,mongodb,postgres, vercel,githubactions" />
-</a>
-</div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,graphql,tailwind,sass,vue,docker,figma,jest,postman,vercel,vite,bootstrap,mongodb,postgres, vercel,githubactions" />
+ </a>
+</p>
 </br>
 
 ## Linguagens e Ferramentas:
