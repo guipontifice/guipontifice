@@ -5,13 +5,17 @@
 #### 🚀 Apaixonado por tecnologia e evolução constante, aplico boas práticas de desenvolvimento, versionamento com Git, testes automatizados e foco total na experiência do usuário.
 
 #### ⚙️ Atuo com tecnologias como Angular, React, TypeScript, JavaScript, PHP, Node.js e mais.
+
 #### 📁 Este repositório é voltado para projetos pessoais, estudos e contribuições abertas. Para conferir meu trabalho profissional, acesse meu GitHub corporativo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermepontifice/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guilhermepontifice.gp@gmail.com)
 
 ![Pontifice's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipontifice&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,github,typescript,react,nextjs,graphql,tailwind,sass,vue,docker,figma,jest,linux,postman,vercel,vite,bootstrap,mongodb,postgres, vercel,githubactions" />
+</a>
 
 ## Linguagens e Ferramentas:
 
