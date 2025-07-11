@@ -2,9 +2,9 @@
 
 #### 🎯 Desenvolvedor Front-End com experiência em projetos web responsivos, performáticos e acessíveis.
 
-#### 🚀 Apaixonado por tecnologia e evolução constante, aplico boas práticas de desenvolvimento, versionamento com Git, testes automatizados e foco total na experiência do usuário.
+#### 🚀 Apaixonado por tecnologia e evolução constante, estou aberto a novas oportunidades e crescimento profissional e pessoal.
 
-#### ⚙️ Atuo com tecnologias como Angular, React, TypeScript, JavaScript, PHP, Node.js e mais.
+#### ⚙️ Atuo com  Angular, React, TypeScript, JavaScript e Node.js.
 
 #### 📁 Este repositório é voltado para projetos pessoais, estudos e contribuições abertas. Para conferir meu trabalho profissional, acesse meu GitHub corporativo
 
